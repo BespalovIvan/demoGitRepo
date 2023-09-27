@@ -1,2 +1,1 @@
-Hello World!!!123
-Good buy!
+Hello World!123
